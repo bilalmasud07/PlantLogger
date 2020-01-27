@@ -1,0 +1,102 @@
+
+Measurement results at 2017-11-13 15:29:25
+Reactor:
+Temperature: 22.6436°C
+Pressure: 2.13284atm
+Level: 88%
+Compressor:
+Input pressure: 0.194459atm
+Output pressure: 7.52480atm
+Heater:
+Input temperature: 21.5089°C
+Output temperature: 519.638°C
+Separator:
+Acid on output: 97%
+
+Measurement results at 2017-11-13 15:29:26
+Reactor:
+Temperature: 85.7088°C
+Compressor:
+Input pressure: 0.289769atm
+Heater:
+Output temperature: 500.632°C
+
+Measurement results at 2017-11-13 15:29:27
+Reactor:
+Temperature: 40.0003°C
+Pressure: 1.55294atm
+Level: 87%
+Compressor:
+Input pressure: 0.318192atm
+
+Measurement results at 2017-11-13 15:29:31
+Reactor:
+Level: 83%
+Heater:
+Input temperature: 32.9390°C
+Output temperature: 501.103°C
+
+Measurement results at 2017-11-13 15:29:34
+Reactor:
+Temperature: 21.0798°C
+Pressure: 1.61579atm
+Level: 94%
+Heater:
+Input temperature: 27.4657°C
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-13 15:29:43
+Reactor:
+Temperature: 37.6427°C
+Pressure: 1.98061atm
+Level: 91%
+Compressor:
+Input pressure: 0.425641atm
+Output pressure: 6.16009atm
+Heater:
+Input temperature: 25.0171°C
+Output temperature: 524.963°C
+Separator:
+Acid on output: 100%
+
+Measurement results at 2017-11-13 15:29:44
+Reactor:
+Pressure: 2.18628atm
+Heater:
+Output temperature: 501.969°C
+Separator:
+Acid on output: 97%
+
+Measurement results at 2017-11-13 15:29:46
+Reactor:
+Temperature: 40.9807°C
+
+Measurement results at 2017-11-13 15:29:48
+Reactor:
+Temperature: 64.9016°C
+Level: 89%
+Compressor:
+Input pressure: 0.049905atm
+Heater:
+Output temperature: 506.308°C
+
+Measurement results at 2017-11-13 15:29:48
+Reactor:
+Temperature: 64.9016°C
+Level: 89%
+Compressor:
+Input pressure: 0.049905atm
+Heater:
+Output temperature: 506.308°C
+
+Measurement results at 2017-11-13 15:29:49
+Compressor:
+Input pressure: 0.472269atm
+Heater:
+Output temperature: 503.014°C
+
+Measurement results at 2017-11-13 15:29:52
+Reactor:
+Temperature: 89.2911°C
+Level: 95%

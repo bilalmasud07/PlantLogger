@@ -1,0 +1,2395 @@
+
+Measurement results at 2017-11-16 18:52:25
+Reactor:
+Temperature: 69.0862╟C
+Pressure: 1.62596atm
+Level: 87%
+Compressor:
+Input pressure: 0.046854atm
+Output pressure: 7.68793atm
+Heater:
+Input temperature: 39.9804╟C
+Output temperature: 500.061╟C
+Separator:
+Acid on output: 100%
+
+Measurement results at 2017-11-16 18:52:27
+Separator:
+Acid on output: 95%
+
+Measurement results at 2017-11-16 19:01:48
+Reactor:
+Temperature: 11.2488╟C
+Pressure: 1.60335atm
+Level: 100%
+Compressor:
+Input pressure: 0.433843atm
+Output pressure: 6.47681atm
+Heater:
+Input temperature: 36.3552╟C
+Output temperature: 524.084╟C
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:01:49
+Reactor:
+Temperature: 21.5748╟C
+Heater:
+Input temperature: 30.9265╟C
+Output temperature: 521.500╟C
+
+Measurement results at 2017-11-16 19:01:50
+Reactor:
+Temperature: 27.3739╟C
+Heater:
+Input temperature: 23.7407╟C
+Output temperature: 524.977╟C
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:10:33
+Reactor:
+Temperature: 81.7778╟C
+Pressure: 1.59606atm
+Level: 94%
+Compressor:
+Input pressure: 0.278747atm
+Output pressure: 5.95887atm
+Heater:
+Input temperature: 23.9009╟C
+Output temperature: 506.146╟C
+Separator:
+Acid on output: 98%
+
+Measurement results at 2017-11-16 19:10:35
+Heater:
+Input temperature: 23.9279╟C
+
+Measurement results at 2017-11-16 19:10:36
+Reactor:
+Pressure: 2.12986atm
+Level: 82%
+
+Measurement results at 2017-11-16 19:10:38
+Compressor:
+Output pressure: 5.91218atm
+Separator:
+Acid on output: 100%
+
+Measurement results at 2017-11-16 19:10:39
+Reactor:
+Level: 84%
+Compressor:
+Output pressure: 6.17050atm
+Separator:
+Acid on output: 97%
+
+Measurement results at 2017-11-16 19:10:40
+Compressor:
+Input pressure: 0.021341atm
+Output pressure: 5.38896atm
+Heater:
+Input temperature: 36.7052╟C
+Output temperature: 519.743╟C
+
+Measurement results at 2017-11-16 19:10:41
+Reactor:
+Pressure: 1.70171atm
+Separator:
+Acid on output: 95%
+
+Measurement results at 2017-11-16 19:10:43
+Reactor:
+Pressure: 1.66879atm
+
+Measurement results at 2017-11-16 19:10:46
+Reactor:
+Pressure: 2.15154atm
+Level: 93%
+Compressor:
+Input pressure: 0.135352atm
+
+Measurement results at 2017-11-16 19:10:46
+Reactor:
+Pressure: 2.15154atm
+Level: 93%
+Compressor:
+Input pressure: 0.135352atm
+
+Measurement results at 2017-11-16 19:10:49
+Separator:
+Acid on output: 100%
+
+Measurement results at 2017-11-16 19:10:51
+Reactor:
+Temperature: 47.3562╟C
+Pressure: 1.72092atm
+Heater:
+Input temperature: 28.4193╟C
+
+Measurement results at 2017-11-16 19:10:57
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:10:57
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:10:59
+Compressor:
+Output pressure: 7.33721atm
+Heater:
+Output temperature: 506.943╟C
+
+Measurement results at 2017-11-16 19:11:01
+Reactor:
+Level: 87%
+Compressor:
+Output pressure: 7.19302atm
+
+Measurement results at 2017-11-16 19:11:03
+Heater:
+Output temperature: 501.565╟C
+Separator:
+Acid on output: 98%
+
+Measurement results at 2017-11-16 19:11:06
+Reactor:
+Temperature: 57.5045╟C
+Pressure: 1.94684atm
+Compressor:
+Input pressure: 0.073358atm
+
+Measurement results at 2017-11-16 19:11:07
+Reactor:
+Level: 83%
+Compressor:
+Input pressure: 0.276935atm
+Output pressure: 7.02336atm
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:11:07
+Reactor:
+Level: 83%
+Compressor:
+Input pressure: 0.276935atm
+Output pressure: 7.02336atm
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:11:09
+Reactor:
+Temperature: 88.3109╟C
+Pressure: 1.55881atm
+Level: 98%
+Heater:
+Input temperature: 28.1467╟C
+Output temperature: 512.868╟C
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:11:09
+Reactor:
+Temperature: 88.3109╟C
+Pressure: 1.55881atm
+Level: 98%
+Heater:
+Input temperature: 28.1467╟C
+Output temperature: 512.868╟C
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:11:09
+Reactor:
+Temperature: 88.3109╟C
+Pressure: 1.55881atm
+Level: 98%
+Heater:
+Input temperature: 28.1467╟C
+Output temperature: 512.868╟C
+Separator:
+Acid on output: 99%
+
+Measurement results at 2017-11-16 19:11:10
+Reactor:
+Temperature: 39.8736╟C
+Pressure: 2.00729atm
+Level: 82%
+Compressor:
+Input pressure: 0.372314atm
+Output pressure: 5.36713atm
+Heater:
+Output temperature: 514.128╟C
+Separator:
+Acid on output: 100%
+
+Measurement results at 2017-11-16 19:11:12
+Reactor:
+Temperature: 50.4739╟C
+Pressure: 1.99199atm
+Level: 87%
+
+Measurement results at 2017-11-16 19:11:17
+Reactor:
+Temperature: 72.7952╟C
+Pressure: 1.94275atm
+Level: 83%
+Compressor:
+Input pressure: 0.420212atm
+Output pressure: 5.76718atm
+
+Measurement results at 2017-11-16 19:11:20
+Reactor:
+Pressure: 1.56804atm
+Level: 91%
+Heater:
+Input temperature: 26.8031╟C
+
+Measurement results at 2017-12-14 16:31:42
+Reactor:
+Temperature: 51.4252╟C
+Pressure: 1.50816atm
+Level: 95%
+Compressor:
+Input pressure: 0.092055atm
+Output pressure: 6.31487atm
+Heater:
+Input temperature: 37.0798╟C
+Output temperature: 500.897╟C
+Separator:
+Acid on output: 98%
+
+Measurement results at 2017-12-14 16:31:45
+Reactor:
+Temperature: 41.8876╟C
+Pressure: 2.13257atm
+Level: 93%
+
+Measurement results at 2017-12-14 16:31:47
+Reactor:
+Temperature: 27.0159╟C
+Pressure: 2.17351atm
+Separator:
+Acid on output: 100%
+
+Measurement results at 2017-12-14 16:31:48
+Compressor:
+Input pressure: 0.174365atm
+Output pressure: 5.85583atm
+Heater:
+Output temperature: 508.591╟C
+
+Measurement results at 2017-12-14 16:31:49
+Compressor:
+Output pressure: 6.10119atm
+
+Measurement results at 2017-12-14 16:31:50
+Compressor:
+Input pressure: 0.229865atm
+Heater:
+Input temperature: 30.7818╟C
+Output temperature: 511.605╟C
+
+Measurement results at 2017-12-14 16:31:52
+Heater:
+Input temperature: 28.2315╟C
+
+Measurement results at 2017-12-14 16:31:53
+Reactor:
+Temperature: 66.8522╟C
+Compressor:
+Input pressure: 0.105032atm
+Output pressure: 7.49759atm
+Heater:
+Output temperature: 511.219╟C
+
+Measurement results at 2017-12-14 16:31:54
+Heater:
+Output temperature: 515.629╟C
+
+Measurement results at 2019-12-10 17:40:04
+Reactor:
+Propylene  quantity: Propylene  quantity: lyst  quantity: lyst  quantity: ent volume: ent volume: erature: erature: Pressure: 1.88717atm
+Level: 86%
+Output  quantity: Output  quantity: uder:
+Input quantity: Input quantity: ent volume: ent volume: ut viscosity: ut viscosity: Output quantity: Output quantity: Water bath: Water bath: antity: antity: r flow: r flow: Level: 94%
+Output quantity: Output quantity: Pelletizer: Pelletizer: antity: antity: ut quantity: ut quantity: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: лX: лX: лПЭ▐: лПЭ▐: ллллhЭ▐: ллллhЭ▐:  ЬHсO:  ЬHсO: Ъ┼N: Ъ┼N: ╗Щ▐: ╗Щ▐: ≤└а: ≤└а: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллВю╞N: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллВю╞N:  └а:  └а:  Ь@l;P≤└а:  Ь@l;P≤└а: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл,ЬН√N: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл,ЬН√N:  └а:  └а: &≤t@l;P@l;P≤└а: &≤t@l;P@l;P≤└а: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл└а: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл└а: └а: └а: dЬ░╪O: dЬ░╪O: Рl;P└а: Рl;P└а: @l;P≤└а: @l;P≤└а: жN: жN: 8Ь: 8Ь: $FPЯв╗Ю: $FPЯв╗Ю: c╟u≤└а: c╟u≤└а: t{Kw≤└а: t{Kw≤└а: : : : : : : : : : : : : : : wу┤#: wу┤#: {KwЪЪЪЪ.▐Mw: {KwЪЪЪЪ.▐Mw: l;P≤└а: l;P≤└а: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
+Measurement results at 2019-12-10 18:14:14
+Reactor:
+Propylene  quantity: Propylene  quantity: lyst  quantity: lyst  quantity: ent volume: ent volume: erature: erature: Pressure: 1.69317atm
+Level: 90%
+Output  quantity: Output  quantity: uder:
+Input quantity: Input quantity: ent volume: ent volume: ut viscosity: ut viscosity: Output quantity: Output quantity: Water bath: Water bath: antity: antity: r flow: r flow: Level: 82%
+Output quantity: Output quantity: Pelletizer: Pelletizer: antity: antity: ut quantity: ut quantity: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: л0: л0: л■Ж╞: л■Ж╞: ллллЖ╞: ллллЖ╞: @Щ8Hсф: @Щ8Hсф: Ъ┼е: Ъ┼е: LВ╞: LВ╞: ─┐Й: ─┐Й: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл,Э8ю╞е: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл,Э8ю╞е: х┤Й: х┤Й: @Щ8@l▐z─┐Й: @Щ8@l▐z─┐Й: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллLЩ8Н√е: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллLЩ8Н√е: х┤Й: х┤Й: (x░@l▐z@l▐z─┐Й: (x░@l▐z@l▐z─┐Й: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллю┤Й: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллю┤Й: ю┤Й: ю┤Й: └Щ8░╪ф: └Щ8░╪ф: Рl▐zю┤Й: Рl▐zю┤Й: @l▐z─┐Й: @l▐z─┐Й: же: же: XЩ8: XЩ8: $ z)s-~: $ z)s-~: c÷v─┐Й: c÷v─┐Й: t{╪w─┐Й: t{╪w─┐Й: : : : : : : : : : : : : : : w┼KRФ: w┼KRФ: {╪wЪЪЪЪ▐╬w: {╪wЪЪЪЪ▐╬w: l▐z─┐Й: l▐z─┐Й: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
+Measurement results at 2019-12-10 18:26:13
+Heater:
+Air inlet: Air inlet: Inside temperature: Inside temperature: Gas inlet: Gas inlet: Gas outlet: Gas outlet: Solution tank:
+Solution conductivity: Solution conductivity: Solution concentration: Solution concentration: tion pH: tion pH: Level: 95%
+Scrubber:
+Inlet: Inlet: Outlet: Outlet: 
+Measurement results at 2019-12-10 18:26:17
+Heater:
+Inside temperature: Inside temperature: Gas outlet: Gas outlet: Solution tank:
+Solution conductivity: Solution conductivity: Solution pH: Solution pH: Level: 97%
+
+Measurement results at 2019-12-10 18:26:19
+Heater:
+Air inlet: Air inlet: Gas outlet: Gas outlet: Solution tank:
+Solution concentration: Solution concentration: l: l: 
+Measurement results at 2019-12-10 18:26:20
+Heater:
+Air inlet: Air inlet: Inside temperature: Inside temperature: Gas inlet: Gas inlet: 
+Measurement results at 2019-12-10 18:26:22
+Solution tank:
+Solution concentration: Solution concentration: tion pH: tion pH: Level: 100%
+Scrubber:
+Outlet: Outlet: 
+Measurement results at 2019-12-10 18:26:24
+Solution tank:
+Solution concentration: Solution concentration: l: l: bber:
+Outlet: Outlet: bber: bber: : : Solution pH: Solution pH: Level: 97%
+░■\╖@Solution concentration: ░■\╖@Solution concentration: tion pH: tion pH: Level: 95%
+: : er: er: юьrE@Outlet: юьrE@Outlet: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: л,: л,: лтЫX: лтЫX: ллллLЫX: ллллLЫX: 8ЬЛ: 8ЬЛ: <ЖЛ: <ЖЛ: lЗX: lЗX: @l=| ┤▒: @l=| ┤▒: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл$ВЛ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл$ВЛ: l└▒: l└▒: `└▒: `└▒:  ┤▒:  ┤▒: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллDЬЛ: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллDЬЛ: l└▒: l└▒: `└▒: `└▒: @l=| ┤▒: @l=| ┤▒: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл`└▒: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл`└▒: `└▒: `└▒: |ЬЛ: |ЬЛ: ▄ЬЛ: ▄ЬЛ: еDG@l=|@l=| ┤▒: еDG@l=|@l=| ┤▒: жl: жl: PЬЛ: PЬЛ: $H|─wЮ;: $H|─wЮ;: c÷v ┤▒: c÷v ┤▒: t{╪w ┤▒: t{╪w ┤▒: : : : : : : : : : : : : : : wйr╫P: wйr╫P: {╪wЪЪЪЪ#▐╬w: {╪wЪЪЪЪ#▐╬w: l=| ┤▒: l=| ┤▒: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
+Measurement results at 2019-12-10 18:30:48
+Reactor:
+Propylene  quantity: Propylene  quantity: lyst  quantity: lyst  quantity: ent volume: ent volume: erature: erature: Pressure: 2.02405atm
+Level: 88%
+Output  quantity: Output  quantity: uder:
+Input quantity: Input quantity: ent volume: ent volume: ut viscosity: ut viscosity: Output quantity: Output quantity: Water bath: Water bath: antity: antity: r flow: r flow: Level: 83%
+Output quantity: Output quantity: Pelletizer: Pelletizer: antity: antity: ut quantity: ut quantity: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: л,: л,: л╢ЬА: л╢ЬА: лллл,ЬА: лллл,ЬА: ░ШhHсп: ░ШhHсп: Ъ┼о: Ъ┼о: lЫА: lЫА: @┼Щ: @┼Щ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл|Зhю╞о: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл|Зhю╞о: ┬├Щ: ┬├Щ: ░Шh@lLP@┼Щ: ░Шh@lLP@┼Щ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл°ШhН√о: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл°ШhН√о: ┬├Щ: ┬├Щ: JЮw@lLP@lLP@┼Щ: JЮw@lLP@lLP@┼Щ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл─├Щ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл─├Щ: ─├Щ: ─├Щ: тШh░╪п: тШh░╪п: РlLP─├Щ: РlLP─├Щ: @lLP@┼Щ: @lLP@┼Щ: жо: жо: ╗Шh: ╗Шh: $WPgk: $WPgk: c÷v@┼Щ: c÷v@┼Щ: t{╪w@┼Щ: t{╪w@┼Щ: : : : : : : : : : : : : : : wза:: wза:: {╪wЪЪЪЪ▐╬w: {╪wЪЪЪЪ▐╬w: lLP@┼Щ: lLP@┼Щ: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
+Measurement results at 2019-12-10 19:50:09
+High pressure separator:
+Input flow: Input flow: Temperature: 49.6349╟C
+Pressure: 24.60688atm
+Level: 85%
+Output flow: Output flow: Low pressure separator:
+Input flow: Input flow: Temperature: 64.6071╟C
+Pressure: 1.91954atm
+Level: 83%
+Output flow: Output flow: Gas compressor:
+Input pressure: 0.600288atm
+Output pressure: 2.14260atm
+Booster compressor:
+Input pressure: 2.096554atm
+Output pressure: 21.78858atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:09
+Gas compressor:
+Input pressure: 1.460688atm
+
+Measurement results at 2019-12-10 19:50:12
+Low pressure separator:
+Input flow: Input flow: Pressure: 2.41602atm
+Level: 84%
+Booster compressor:
+Input pressure: 2.194355atm
+Output pressure: 18.27396atm
+
+Measurement results at 2019-12-10 19:50:13
+High pressure separator:
+Input flow: Input flow: Output flow: Output flow: Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:15
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:18
+Low pressure separator:
+Input flow: Input flow: Pressure: 1.58799atm
+Level: 87%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:20
+High pressure separator:
+Input flow: Input flow: Temperature: 81.5343╟C
+Pressure: 23.53757atm
+Output flow: Output flow: Low pressure separator:
+Input flow: Input flow: Temperature: 56.8297╟C
+Booster compressor:
+Input pressure: 2.143635atm
+Output pressure: 16.31520atm
+
+Measurement results at 2019-12-10 19:50:24
+Low pressure separator:
+Temperature: 24.2877╟C
+Pressure: 1.69598atm
+
+Measurement results at 2019-12-10 19:50:24
+Low pressure separator:
+Temperature: 24.2877╟C
+Pressure: 1.69598atm
+
+Measurement results at 2019-12-10 19:50:27
+High pressure separator:
+Temperature: 22.0635╟C
+Pressure: 21.63804atm
+Level: 84%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:28
+High pressure separator:
+Pressure: 24.26355atm
+Level: 82%
+Gas compressor:
+Input pressure: 1.272563atm
+Output pressure: 2.49111atm
+
+Measurement results at 2019-12-10 19:50:29
+High pressure separator:
+Input flow: Input flow: Pressure: 22.23841atm
+Level: 81%
+Low pressure separator:
+Temperature: 71.5346╟C
+Level: 84%
+Gas compressor:
+Input pressure: 0.813715atm
+Output pressure: 2.22695atm
+Booster compressor:
+Input pressure: 2.318485atm
+Output pressure: 17.39952atm
+
+Measurement results at 2019-12-10 19:50:31
+High pressure separator:
+Temperature: 82.4982╟C
+Pressure: 23.68264atm
+Level: 82%
+Output flow: Output flow: Low pressure separator:
+Input flow: Input flow: Temperature: 45.4778╟C
+Pressure: 1.94740atm
+Level: 99%
+Output flow: Output flow: Gas compressor:
+Input pressure: 1.412798atm
+Booster compressor:
+Input pressure: 1.678807atm
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:34
+High pressure separator:
+Temperature: 35.4278╟C
+Pressure: 19.73079atm
+Level: 94%
+
+Measurement results at 2019-12-10 19:50:37
+Control valve:
+Input flow: Input flow: 
+Measurement results at 2019-12-10 19:50:39
+Low pressure separator:
+Pressure: 2.12718atm
+
+Measurement results at 2019-12-10 19:50:42
+High pressure separator:
+Input flow: Input flow: Pressure: 18.35200atm
+Level: 87%
+Gas compressor:
+Input pressure: 0.580185atm
+Output pressure: 2.18507atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:44
+Booster compressor:
+Output pressure: 15.58135atm
+
+Measurement results at 2019-12-10 19:50:45
+Low pressure separator:
+Input flow: Input flow: Level: 81%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:45
+Low pressure separator:
+Input flow: Input flow: Level: 81%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:47
+High pressure separator:
+Input flow: Input flow: Gas compressor:
+Input pressure: 1.176874atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:49
+High pressure separator:
+Input flow: Input flow: Temperature: 54.4965╟C
+Pressure: 17.34194atm
+Level: 80%
+Low pressure separator:
+Temperature: 49.0421╟C
+Gas compressor:
+Input pressure: 0.882398atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:52
+Low pressure separator:
+Input flow: Input flow: Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:53
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:50:54
+High pressure separator:
+Input flow: Input flow: Temperature: 32.7526╟C
+Pressure: 24.48049atm
+Booster compressor:
+Output pressure: 19.83044atm
+
+Measurement results at 2019-12-10 19:50:55
+High pressure separator:
+Temperature: 17.6152╟C
+Level: 98%
+
+Measurement results at 2019-12-10 19:50:56
+Gas compressor:
+Input pressure: 1.399395atm
+Booster compressor:
+Input pressure: 2.081995atm
+Output pressure: 16.97044atm
+
+Measurement results at 2019-12-10 19:51:00
+Booster compressor:
+Output pressure: 23.12912atm
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:01
+High pressure separator:
+Input flow: Input flow: Output flow: Output flow: Low pressure separator:
+Temperature: 14.0476╟C
+Level: 96%
+Output flow: Output flow: Booster compressor:
+Output pressure: 16.92726atm
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:01
+High pressure separator:
+Input flow: Input flow: Output flow: Output flow: Low pressure separator:
+Temperature: 14.0476╟C
+Level: 96%
+Output flow: Output flow: Booster compressor:
+Output pressure: 16.92726atm
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:03
+High pressure separator:
+Input flow: Input flow: Temperature: 84.2418╟C
+Output flow: Output flow: Low pressure separator:
+Pressure: 1.73456atm
+Level: 82%
+Output flow: Output flow: Gas compressor:
+Output pressure: 1.57515atm
+
+Measurement results at 2019-12-10 19:51:06
+High pressure separator:
+Pressure: 24.21232atm
+Low pressure separator:
+Temperature: 55.3379╟C
+Level: 80%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:07
+High pressure separator:
+Input flow: Input flow: Output flow: Output flow: Booster compressor:
+Output pressure: 15.49267atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:10
+Gas compressor:
+Input pressure: 0.990037atm
+Output pressure: 2.45923atm
+
+Measurement results at 2019-12-10 19:51:11
+High pressure separator:
+Pressure: 20.63774atm
+Output flow: Output flow: Booster compressor:
+Output pressure: 23.28855atm
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:12
+Control valve:
+Input flow: Input flow: 
+Measurement results at 2019-12-10 19:51:12
+Control valve:
+Input flow: Input flow: 
+Measurement results at 2019-12-10 19:51:14
+High pressure separator:
+Input flow: Input flow: Temperature: 21.7146╟C
+Pressure: 22.81384atm
+Gas compressor:
+Input pressure: 0.778061atm
+Output pressure: 1.86226atm
+
+Measurement results at 2019-12-10 19:51:14
+High pressure separator:
+Input flow: Input flow: Temperature: 21.7146╟C
+Pressure: 22.81384atm
+Gas compressor:
+Input pressure: 0.778061atm
+Output pressure: 1.86226atm
+
+Measurement results at 2019-12-10 19:51:14
+High pressure separator:
+Input flow: Input flow: Temperature: 21.7146╟C
+Pressure: 22.81384atm
+Gas compressor:
+Input pressure: 0.778061atm
+Output pressure: 1.86226atm
+
+Measurement results at 2019-12-10 19:51:16
+Low pressure separator:
+Pressure: 2.32216atm
+Booster compressor:
+Output pressure: 16.73107atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:18
+Low pressure separator:
+Input flow: Input flow: Temperature: 89.1816╟C
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:21
+High pressure separator:
+Input flow: Input flow: Low pressure separator:
+Level: 82%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:21
+High pressure separator:
+Input flow: Input flow: Low pressure separator:
+Level: 82%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:21
+High pressure separator:
+Input flow: Input flow: Low pressure separator:
+Level: 82%
+Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:23
+Low pressure separator:
+Input flow: Input flow: Level: 81%
+Gas compressor:
+Input pressure: 1.384829atm
+
+Measurement results at 2019-12-10 19:51:26
+Low pressure separator:
+Input flow: Input flow: Temperature: 18.5433╟C
+Level: 100%
+Gas compressor:
+Input pressure: 1.016453atm
+Output pressure: 2.48309atm
+
+Measurement results at 2019-12-10 19:51:27
+High pressure separator:
+Level: 88%
+Output flow: Output flow: Low pressure separator:
+Output flow: Output flow: Gas compressor:
+Output pressure: 1.80163atm
+
+Measurement results at 2019-12-10 19:51:30
+High pressure separator:
+Temperature: 86.1937╟C
+Level: 91%
+Output flow: Output flow: Low pressure separator:
+Pressure: 2.39063atm
+Level: 85%
+Output flow: Output flow: Booster compressor:
+Input pressure: 1.974961atm
+Output pressure: 18.21295atm
+
+Measurement results at 2019-12-10 19:51:31
+High pressure separator:
+Temperature: 58.7617╟C
+Pressure: 23.79933atm
+Level: 99%
+Output flow: Output flow: Control valve:
+Input flow: Input flow: 
+Measurement results at 2019-12-10 19:51:44
+High pressure separator:
+Input flow: Input flow: Temperature: 18.6358╟C
+Pressure: 19.62824atm
+Level: 95%
+Output flow: Output flow: Low pressure separator:
+Input flow: Input flow: Temperature: 11.0617╟C
+Pressure: 2.44417atm
+Level: 92%
+Output flow: Output flow: Gas compressor:
+Input pressure: 1.078665atm
+Output pressure: 2.31334atm
+Booster compressor:
+Input pressure: 2.117336atm
+Output pressure: 16.89381atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-10 19:51:44
+High pressure separator:
+Temperature: 12.4527╟C
+Pressure: 22.43590atm
+Output flow: Output flow: Booster compressor:
+Output pressure: 23.69342atm
+
+Measurement results at 2019-12-11 14:08:46
+High pressure separator:
+Input flow: Input flow: Temperature: 53.1662╟C
+Pressure: 22.22158atm
+Level: 97%
+Output flow: Output flow: Low pressure separator:
+Input flow: Input flow: Temperature: 83.1067╟C
+Pressure: 1.92919atm
+Level: 94%
+Output flow: Output flow: Gas compressor:
+Input pressure: 0.736470atm
+Output pressure: 1.97742atm
+Booster compressor:
+Input pressure: 1.767160atm
+Output pressure: 23.87410atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-11 14:08:47
+Low pressure separator:
+Input flow: Input flow: Temperature: 66.3988╟C
+Pressure: 2.30661atm
+Output flow: Output flow: Gas compressor:
+Input pressure: 0.873945atm
+Output pressure: 1.89591atm
+Booster compressor:
+Output pressure: 15.13149atm
+
+Measurement results at 2019-12-11 14:08:48
+Low pressure separator:
+Input flow: Input flow: Temperature: 76.5168╟C
+Gas compressor:
+Input pressure: 1.056969atm
+
+Measurement results at 2019-12-11 14:08:49
+High pressure separator:
+Input flow: Input flow: Temperature: 14.2311╟C
+Level: 86%
+Output flow: Output flow: Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-11 14:08:51
+Booster compressor:
+Output pressure: 16.31658atm
+
+Measurement results at 2019-12-11 14:08:51
+Booster compressor:
+Output pressure: 16.31658atm
+
+Measurement results at 2019-12-11 14:08:54
+Gas compressor:
+Input pressure: 1.421135atm
+Booster compressor:
+Input pressure: 1.533577atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-15 16:51:46
+Reactor:
+Temperature: 25.3701╟C
+Pressure: 1.84934atm
+Level: 92%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:51:50
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:51:52
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:51:55
+Reactor:
+Level: 80%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:51:57
+Reactor:
+Temperature: 17.1830╟C
+Pressure: 1.71613atm
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:51:57
+Reactor:
+Temperature: 17.1830╟C
+Pressure: 1.71613atm
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:51:58
+Reactor:
+Pressure: 2.03789atm
+Level: 89%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:51:58
+Reactor:
+Pressure: 2.03789atm
+Level: 89%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:51:59
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:52:02
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:52:03
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:52:11
+Reactor:
+Temperature: 24.8335╟C
+Pressure: 2.02384atm
+Level: 91%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:52:11
+Reactor:
+Temperature: 69.8676╟C
+Pressure: 2.01589atm
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:52:13
+Reactor:
+Pressure: 2.16531atm
+Level: 89%
+
+Measurement results at 2019-12-15 16:52:37
+Reactor:
+Temperature: 52.2839╟C
+Pressure: 1.72708atm
+Level: 85%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:52:40
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:52:41
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:52:44
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:52:44
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:52:46
+Reactor:
+Temperature: 42.7232╟C
+Level: 94%
+
+Measurement results at 2019-12-15 16:52:48
+Reactor:
+Temperature: 59.7811╟C
+Level: 98%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:53:04
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:53:06
+Reactor:
+Temperature: 38.4627╟C
+
+Measurement results at 2019-12-15 16:53:10
+Reactor:
+Temperature: 54.5025╟C
+
+Measurement results at 2019-12-15 16:53:12
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:53:17
+Reactor:
+Pressure: 1.55804atm
+Level: 93%
+
+Measurement results at 2019-12-15 16:53:22
+Reactor:
+Temperature: 46.4008╟C
+Pressure: 1.84582atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-15 16:53:23
+Reactor:
+Temperature: 87.2928╟C
+Level: 89%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:53:23
+Reactor:
+Temperature: 87.2928╟C
+Level: 89%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:54:42
+Reactor:
+Temperature: 21.5403╟C
+Pressure: 2.01592atm
+Level: 84%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:54:43
+Reactor:
+Temperature: 40.7514╟C
+Level: 89%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:54:44
+Reactor:
+Temperature: 40.7514╟C
+Level: 89%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:54:44
+Reactor:
+Temperature: 51.8015╟C
+Level: 80%
+
+Measurement results at 2019-12-15 16:54:46
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:54:46
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-15 16:54:47
+Reactor:
+Level: 87%
+
+Measurement results at 2019-12-18 11:43:36
+Reactor:
+Temperature: 46.0317╟C
+Pressure: 2.09851atm
+Level: 87%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 11:43:37
+Reactor:
+Temperature: 72.4620╟C
+Level: 100%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 11:43:40
+Reactor:
+Level: 95%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 11:43:40
+Reactor:
+Level: 95%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 11:43:43
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 11:43:47
+Reactor:
+Temperature: 52.8365╟C
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:11:21
+Reactor:
+Temperature: 83.5221╟C
+Pressure: 1.71017atm
+Level: 91%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:11:23
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:11:25
+Reactor:
+Temperature: 77.1506╟C
+Pressure: 1.96376atm
+
+Measurement results at 2019-12-18 17:11:25
+Reactor:
+Temperature: 77.1506╟C
+Pressure: 1.96376atm
+
+Measurement results at 2019-12-18 17:11:26
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 17:11:27
+Reactor:
+Pressure: 1.79984atm
+Level: 99%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:05
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 17:12:07
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:07
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:07
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:10
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:11
+Reactor:
+Pressure: 1.74346atm
+Level: 90%
+
+Measurement results at 2019-12-18 17:12:13
+Reactor:
+Level: 100%
+
+Measurement results at 2019-12-18 17:12:16
+Reactor:
+Pressure: 1.96880atm
+Level: 93%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 17:12:21
+Reactor:
+Level: 89%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:24
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 17:12:27
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:29
+Reactor:
+Temperature: 89.7887╟C
+Pressure: 2.19869atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 17:12:31
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 17:12:33
+Reactor:
+Pressure: 2.19971atm
+Level: 86%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:35
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:37
+Reactor:
+Pressure: 1.78316atm
+
+Measurement results at 2019-12-18 17:12:39
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 17:12:40
+Reactor:
+Pressure: 1.90389atm
+Level: 86%
+
+Measurement results at 2019-12-18 17:12:42
+Reactor:
+Pressure: 1.69519atm
+Level: 80%
+
+Measurement results at 2019-12-18 17:12:43
+Reactor:
+Temperature: 88.9748╟C
+
+Measurement results at 2019-12-18 18:02:43
+Reactor:
+Temperature: 70.9653╟C
+Pressure: 1.97385atm
+Level: 80%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:02:46
+Reactor:
+Pressure: 2.11912atm
+
+Measurement results at 2019-12-18 18:02:59
+Reactor:
+Temperature: 19.6882╟C
+Pressure: 1.57044atm
+Level: 93%
+
+Measurement results at 2019-12-18 18:03:09
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:10
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:11
+Reactor:
+Temperature: 36.8284╟C
+Level: 86%
+
+Measurement results at 2019-12-18 18:03:18
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:03:23
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:24
+Reactor:
+Temperature: 21.0623╟C
+Pressure: 1.79252atm
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:25
+Reactor:
+Temperature: 11.2789╟C
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:26
+Reactor:
+Temperature: 55.7722╟C
+
+Measurement results at 2019-12-18 18:03:27
+Reactor:
+Level: 80%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:27
+Reactor:
+Level: 80%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:28
+Reactor:
+Level: 80%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:32
+Reactor:
+Pressure: 1.74890atm
+Level: 99%
+
+Measurement results at 2019-12-18 18:03:33
+Reactor:
+Pressure: 1.82436atm
+
+Measurement results at 2019-12-18 18:03:34
+Reactor:
+Level: 84%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:03:35
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:03:51
+Reactor:
+Temperature: 60.8235╟C
+Pressure: 1.87170atm
+Level: 85%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:03:53
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:03:58
+Reactor:
+Temperature: 13.9844╟C
+Pressure: 1.95299atm
+
+Measurement results at 2019-12-18 18:03:58
+Reactor:
+Temperature: 13.9844╟C
+Pressure: 1.95299atm
+
+Measurement results at 2019-12-18 18:03:59
+Reactor:
+Pressure: 1.50576atm
+
+Measurement results at 2019-12-18 18:04:01
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:04:03
+Reactor:
+Temperature: 52.6423╟C
+Pressure: 2.01557atm
+Level: 91%
+
+Measurement results at 2019-12-18 18:04:04
+Reactor:
+Level: 85%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:04:06
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:04:23
+Reactor:
+Temperature: 60.1940╟C
+Pressure: 1.63371atm
+Level: 96%
+
+Measurement results at 2019-12-18 18:04:26
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:04:34
+Reactor:
+Pressure: 2.00602atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:04:37
+Reactor:
+Temperature: 86.7111╟C
+
+Measurement results at 2019-12-18 18:04:38
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:04:47
+Reactor:
+Temperature: 26.6856╟C
+Pressure: 1.97064atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:04:47
+Reactor:
+Temperature: 26.6856╟C
+Pressure: 1.97064atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-18 18:04:49
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:04:50
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:04:51
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:05:02
+Reactor:
+Temperature: 58.9934╟C
+Pressure: 2.04265atm
+
+Measurement results at 2019-12-18 18:05:03
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-18 18:05:05
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2020-01-19 00:42:27
+Reactor:
+Temperature: 65.1617╟C
+Pressure: 1.87470atm
+Level: 84%
+Compressor:
+Input pressure: 0.074467atm
+Output pressure: 7.05605atm
+Heater:
+Input temperature: 25.8734╟C
+Output temperature: 523.016╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:42:30
+Reactor:
+Temperature: 74.9377╟C
+Compressor:
+Input pressure: 0.159652atm
+Heater:
+Output temperature: 522.219╟C
+
+Measurement results at 2020-01-19 00:42:31
+Reactor:
+Temperature: 76.4522╟C
+Pressure: 1.73615atm
+Level: 97%
+Heater:
+Output temperature: 506.025╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:42:34
+Reactor:
+Temperature: 20.6542╟C
+Pressure: 1.94482atm
+Level: 94%
+
+Measurement results at 2020-01-19 00:42:36
+Reactor:
+Temperature: 26.1870╟C
+Pressure: 1.81962atm
+Level: 95%
+
+Measurement results at 2020-01-19 00:42:39
+Reactor:
+Temperature: 39.5318╟C
+Pressure: 1.66601atm
+Compressor:
+Input pressure: 0.159384atm
+Output pressure: 6.03284atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:42:39
+Reactor:
+Temperature: 39.5318╟C
+Pressure: 1.66601atm
+Compressor:
+Input pressure: 0.159384atm
+Output pressure: 6.03284atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:42:40
+Heater:
+Input temperature: 23.0585╟C
+Output temperature: 518.152╟C
+
+Measurement results at 2020-01-19 00:42:40
+Heater:
+Input temperature: 23.0585╟C
+Output temperature: 518.152╟C
+
+Measurement results at 2020-01-19 00:42:42
+Reactor:
+Temperature: 80.8986╟C
+Level: 100%
+Heater:
+Output temperature: 510.072╟C
+
+Measurement results at 2020-01-19 00:42:44
+Reactor:
+Pressure: 1.55332atm
+Heater:
+Input temperature: 23.5318╟C
+
+Measurement results at 2020-01-19 00:42:46
+Reactor:
+Temperature: 12.8042╟C
+Pressure: 1.75535atm
+Heater:
+Input temperature: 36.3496╟C
+Output temperature: 524.651╟C
+
+Measurement results at 2020-01-19 00:42:49
+Compressor:
+Input pressure: 0.396418atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:42:51
+Compressor:
+Input pressure: 0.060473atm
+Output pressure: 5.99924atm
+
+Measurement results at 2020-01-19 00:42:52
+Reactor:
+Pressure: 1.51806atm
+Level: 95%
+
+Measurement results at 2020-01-19 00:42:52
+Reactor:
+Pressure: 1.51806atm
+Level: 95%
+
+Measurement results at 2020-01-19 00:42:55
+Reactor:
+Pressure: 1.97196atm
+Compressor:
+Input pressure: 0.174418atm
+
+Measurement results at 2020-01-19 00:42:58
+Reactor:
+Temperature: 27.9803╟C
+Pressure: 1.71228atm
+Level: 92%
+Compressor:
+Input pressure: 0.092130atm
+
+Measurement results at 2020-01-19 00:43:01
+Reactor:
+Temperature: 75.0939╟C
+Level: 98%
+Heater:
+Output temperature: 510.344╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:01
+Reactor:
+Temperature: 75.0939╟C
+Level: 98%
+Heater:
+Output temperature: 510.344╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:04
+Compressor:
+Input pressure: 0.133219atm
+Heater:
+Input temperature: 32.6191╟C
+Output temperature: 512.826╟C
+
+Measurement results at 2020-01-19 00:43:05
+Reactor:
+Temperature: 38.9225╟C
+Pressure: 1.62433atm
+Level: 92%
+Heater:
+Input temperature: 28.2619╟C
+Output temperature: 523.171╟C
+
+Measurement results at 2020-01-19 00:43:08
+Reactor:
+Pressure: 1.88829atm
+Level: 82%
+Compressor:
+Output pressure: 5.55353atm
+Heater:
+Input temperature: 34.7139╟C
+Output temperature: 516.420╟C
+
+Measurement results at 2020-01-19 00:43:09
+Heater:
+Input temperature: 23.6435╟C
+Output temperature: 511.565╟C
+
+Measurement results at 2020-01-19 00:43:20
+Reactor:
+Temperature: 10.5885╟C
+Compressor:
+Input pressure: 0.184757atm
+Output pressure: 6.40857atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:21
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:25
+Reactor:
+Pressure: 2.04536atm
+Level: 85%
+Compressor:
+Output pressure: 5.42545atm
+
+Measurement results at 2020-01-19 00:43:27
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:28
+Compressor:
+Input pressure: 0.009268atm
+
+Measurement results at 2020-01-19 00:43:29
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:32
+Reactor:
+Temperature: 80.0703╟C
+Level: 84%
+Compressor:
+Input pressure: 0.150001atm
+
+Measurement results at 2020-01-19 00:43:35
+Reactor:
+Temperature: 44.7105╟C
+Level: 98%
+
+Measurement results at 2020-01-19 00:43:37
+Compressor:
+Input pressure: 0.419338atm
+Heater:
+Output temperature: 511.089╟C
+
+Measurement results at 2020-01-19 00:43:38
+Compressor:
+Input pressure: 0.282779atm
+Output pressure: 7.45466atm
+
+Measurement results at 2020-01-19 00:43:40
+Compressor:
+Input pressure: 0.496747atm
+Output pressure: 7.39318atm
+Heater:
+Input temperature: 32.6701╟C
+Output temperature: 516.950╟C
+
+Measurement results at 2020-01-19 00:43:40
+Compressor:
+Input pressure: 0.496747atm
+Output pressure: 7.39318atm
+Heater:
+Input temperature: 32.6701╟C
+Output temperature: 516.950╟C
+
+Measurement results at 2020-01-19 00:43:41
+Reactor:
+Temperature: 25.3148╟C
+Level: 92%
+
+Measurement results at 2020-01-19 00:43:46
+Compressor:
+Input pressure: 0.477168atm
+Heater:
+Input temperature: 24.2866╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:48
+Reactor:
+Temperature: 62.7424╟C
+Pressure: 2.12530atm
+Level: 99%
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:48
+Reactor:
+Temperature: 62.7424╟C
+Pressure: 2.12530atm
+Level: 99%
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:48
+Reactor:
+Temperature: 62.7424╟C
+Pressure: 2.12530atm
+Level: 99%
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:51
+Reactor:
+Pressure: 1.68120atm
+Compressor:
+Input pressure: 0.492095atm
+
+Measurement results at 2020-01-19 00:43:52
+Reactor:
+Temperature: 13.4090╟C
+Pressure: 2.04622atm
+Compressor:
+Input pressure: 0.403940atm
+Output pressure: 7.99576atm
+Heater:
+Output temperature: 517.646╟C
+
+Measurement results at 2020-01-19 00:43:53
+Compressor:
+Input pressure: 0.202551atm
+Heater:
+Input temperature: 25.8592╟C
+Output temperature: 512.532╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:53
+Compressor:
+Input pressure: 0.202551atm
+Heater:
+Input temperature: 25.8592╟C
+Output temperature: 512.532╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:56
+Compressor:
+Input pressure: 0.036556atm
+Output pressure: 6.50766atm
+Heater:
+Input temperature: 37.5956╟C
+Output temperature: 508.315╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:56
+Compressor:
+Input pressure: 0.036556atm
+Output pressure: 6.50766atm
+Heater:
+Input temperature: 37.5956╟C
+Output temperature: 508.315╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:43:58
+Compressor:
+Output pressure: 7.59896atm
+
+Measurement results at 2020-01-19 00:44:01
+Compressor:
+Input pressure: 0.110553atm
+Output pressure: 6.55056atm
+
+Measurement results at 2020-01-19 00:44:02
+Reactor:
+Level: 84%
+Heater:
+Input temperature: 30.9659╟C
+Output temperature: 515.445╟C
+
+Measurement results at 2020-01-19 00:44:06
+Reactor:
+Level: 97%
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-19 00:44:12
+Reactor:
+Temperature: 69.3986╟C
+Pressure: 1.78515atm
+Compressor:
+Input pressure: 0.431799atm
+Output pressure: 7.42666atm
+Heater:
+Input temperature: 32.6433╟C
+
+Measurement results at 2020-01-20 04:01:32
+Reactor:
+Temperature: 53.4366╟C
+Pressure: 2.02837atm
+Level: 96%
+Compressor:
+Input pressure: 0.179583atm
+Output pressure: 5.10020atm
+Heater:
+Input temperature: 38.5626╟C
+Output temperature: 522.085╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 04:01:35
+Reactor:
+Temperature: 17.9059╟C
+Pressure: 1.62721atm
+
+Measurement results at 2020-01-20 04:01:35
+Reactor:
+Temperature: 17.9059╟C
+Pressure: 1.62721atm
+
+Measurement results at 2020-01-20 04:01:37
+Compressor:
+Input pressure: 0.068269atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 04:01:39
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 04:01:40
+Reactor:
+Pressure: 1.64639atm
+Heater:
+Input temperature: 26.0554╟C
+Output temperature: 500.736╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 04:01:41
+Reactor:
+Pressure: 2.04275atm
+
+Measurement results at 2020-01-20 04:01:42
+Compressor:
+Output pressure: 5.91626atm
+
+Measurement results at 2020-01-20 04:01:44
+Heater:
+Output temperature: 512.797╟C
+
+Measurement results at 2020-01-20 04:01:53
+Reactor:
+Temperature: 47.8128╟C
+Pressure: 1.81279atm
+Level: 98%
+Compressor:
+Input pressure: 0.304302atm
+Output pressure: 6.68285atm
+Heater:
+Input temperature: 20.5543╟C
+Output temperature: 501.823╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 04:01:55
+Compressor:
+Input pressure: 0.111484atm
+Output pressure: 6.62267atm
+
+Measurement results at 2020-01-20 15:33:39
+Reactor:
+Temperature: 66.7958╟C
+Pressure: 2.05048atm
+Level: 99%
+Compressor:
+Input pressure: 0.116194atm
+Output pressure: 5.28860atm
+Heater:
+Input temperature: 22.5784╟C
+Output temperature: 507.457╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:33:40
+Compressor:
+Input pressure: 0.355416atm
+Output pressure: 7.71559atm
+
+Measurement results at 2020-01-20 15:33:44
+Reactor:
+Pressure: 1.54639atm
+Heater:
+Input temperature: 32.3728╟C
+
+Measurement results at 2020-01-20 15:33:44
+Reactor:
+Pressure: 1.54639atm
+Heater:
+Input temperature: 32.3728╟C
+
+Measurement results at 2020-01-20 15:33:47
+Compressor:
+Output pressure: 6.45037atm
+Heater:
+Input temperature: 21.1155╟C
+
+Measurement results at 2020-01-20 15:33:50
+Compressor:
+Input pressure: 0.095926atm
+Output pressure: 7.94455atm
+
+Measurement results at 2020-01-20 15:33:51
+Compressor:
+Output pressure: 7.95338atm
+
+Measurement results at 2020-01-20 15:33:53
+Compressor:
+Input pressure: 0.136421atm
+Heater:
+Input temperature: 31.3200╟C
+Output temperature: 514.238╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:33:56
+Reactor:
+Temperature: 44.1206╟C
+Pressure: 1.59708atm
+Level: 96%
+Compressor:
+Input pressure: 0.308318atm
+Heater:
+Output temperature: 516.524╟C
+
+Measurement results at 2020-01-20 15:33:57
+Compressor:
+Input pressure: 0.366672atm
+Output pressure: 5.77829atm
+
+Measurement results at 2020-01-20 15:33:59
+Reactor:
+Temperature: 25.6281╟C
+Pressure: 1.88959atm
+Compressor:
+Input pressure: 0.169184atm
+
+Measurement results at 2020-01-20 15:34:03
+Compressor:
+Input pressure: 0.069206atm
+Output pressure: 5.11134atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:34:05
+Heater:
+Output temperature: 521.537╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:34:08
+Heater:
+Input temperature: 38.7841╟C
+Output temperature: 522.903╟C
+
+Measurement results at 2020-01-20 15:34:11
+Reactor:
+Level: 94%
+
+Measurement results at 2020-01-20 15:34:13
+Compressor:
+Output pressure: 7.96626atm
+Heater:
+Input temperature: 25.3058╟C
+Output temperature: 512.650╟C
+
+Measurement results at 2020-01-20 15:34:15
+Compressor:
+Output pressure: 7.32107atm
+
+Measurement results at 2020-01-20 15:34:16
+Compressor:
+Output pressure: 6.87631atm
+Heater:
+Input temperature: 27.0374╟C
+Output temperature: 517.150╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:34:18
+Compressor:
+Output pressure: 5.38679atm
+
+Measurement results at 2020-01-20 15:34:20
+Reactor:
+Level: 86%
+
+Measurement results at 2020-01-20 15:34:23
+Reactor:
+Pressure: 1.79889atm
+Level: 85%
+Compressor:
+Output pressure: 5.17522atm
+
+Measurement results at 2020-01-20 15:34:24
+Compressor:
+Input pressure: 0.120912atm
+Output pressure: 7.81704atm
+
+Measurement results at 2020-01-20 15:34:25
+Reactor:
+Temperature: 20.1579╟C
+Pressure: 1.81345atm
+Level: 95%
+
+Measurement results at 2020-01-20 15:34:28
+Reactor:
+Temperature: 61.2333╟C
+Pressure: 1.97922atm
+Compressor:
+Input pressure: 0.334382atm
+
+Measurement results at 2020-01-20 15:34:29
+Reactor:
+Temperature: 62.9848╟C
+Pressure: 1.62030atm
+Level: 90%
+Heater:
+Input temperature: 34.3245╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:34:31
+Reactor:
+Temperature: 80.7367╟C
+Pressure: 1.65354atm
+Heater:
+Input temperature: 35.4486╟C
+
+Measurement results at 2020-01-20 15:34:33
+Reactor:
+Temperature: 77.2782╟C
+Pressure: 1.92611atm
+
+Measurement results at 2020-01-20 15:34:35
+Compressor:
+Output pressure: 7.28239atm
+Heater:
+Output temperature: 507.621╟C
+
+Measurement results at 2020-01-20 15:34:38
+Reactor:
+Pressure: 1.56171atm
+
+Measurement results at 2020-01-20 15:34:38
+Reactor:
+Pressure: 1.56171atm
+
+Measurement results at 2020-01-20 15:34:39
+Compressor:
+Input pressure: 0.189472atm
+
+Measurement results at 2020-01-20 15:34:39
+Compressor:
+Input pressure: 0.189472atm
+
+Measurement results at 2020-01-20 15:34:40
+Reactor:
+Pressure: 1.66444atm
+Level: 94%
+Heater:
+Input temperature: 29.0713╟C
+Output temperature: 512.855╟C
+
+Measurement results at 2020-01-20 15:34:41
+Reactor:
+Level: 86%
+
+Measurement results at 2020-01-20 15:34:41
+Reactor:
+Level: 86%
+
+Measurement results at 2020-01-20 15:34:43
+Reactor:
+Temperature: 35.9456╟C
+
+Measurement results at 2020-01-20 15:34:44
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:34:47
+Heater:
+Input temperature: 24.3008╟C
+
+Measurement results at 2020-01-20 15:34:52
+Reactor:
+Temperature: 72.0841╟C
+
+Measurement results at 2020-01-20 15:34:53
+Reactor:
+Level: 81%
+Compressor:
+Input pressure: 0.426824atm
+Output pressure: 6.49582atm
+
+Measurement results at 2020-01-20 15:34:56
+Reactor:
+Temperature: 79.5453╟C
+Level: 96%
+Compressor:
+Input pressure: 0.251685atm
+Output pressure: 6.02265atm
+Heater:
+Input temperature: 23.4519╟C
+Output temperature: 521.835╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:00
+Heater:
+Input temperature: 31.6789╟C
+Output temperature: 516.513╟C
+
+Measurement results at 2020-01-20 15:35:05
+Heater:
+Output temperature: 521.266╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:06
+Reactor:
+Level: 86%
+Compressor:
+Input pressure: 0.214159atm
+Output pressure: 5.79601atm
+Heater:
+Input temperature: 25.2730╟C
+Output temperature: 521.167╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:07
+Reactor:
+Pressure: 2.17754atm
+Level: 90%
+Compressor:
+Input pressure: 0.010352atm
+Output pressure: 5.91948atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:10
+Reactor:
+Temperature: 87.6610╟C
+Compressor:
+Input pressure: 0.268714atm
+Output pressure: 6.55883atm
+
+Measurement results at 2020-01-20 15:35:10
+Reactor:
+Temperature: 87.6610╟C
+Compressor:
+Input pressure: 0.268714atm
+Output pressure: 6.55883atm
+
+Measurement results at 2020-01-20 15:35:11
+Reactor:
+Temperature: 75.9721╟C
+Pressure: 1.99691atm
+Level: 99%
+
+Measurement results at 2020-01-20 15:35:14
+Heater:
+Input temperature: 22.8017╟C
+Output temperature: 521.486╟C
+
+Measurement results at 2020-01-20 15:35:14
+Heater:
+Input temperature: 22.8017╟C
+Output temperature: 521.486╟C
+
+Measurement results at 2020-01-20 15:35:16
+Compressor:
+Input pressure: 0.425525atm
+Heater:
+Input temperature: 38.3979╟C
+Output temperature: 511.205╟C
+
+Measurement results at 2020-01-20 15:35:16
+Compressor:
+Input pressure: 0.425525atm
+Heater:
+Input temperature: 38.3979╟C
+Output temperature: 511.205╟C
+
+Measurement results at 2020-01-20 15:35:17
+Reactor:
+Temperature: 53.5941╟C
+Pressure: 1.65851atm
+Level: 91%
+Heater:
+Input temperature: 30.1558╟C
+
+Measurement results at 2020-01-20 15:35:20
+Compressor:
+Input pressure: 0.124425atm
+Heater:
+Output temperature: 521.872╟C
+
+Measurement results at 2020-01-20 15:35:22
+Reactor:
+Temperature: 86.4090╟C
+Pressure: 1.98540atm
+
+Measurement results at 2020-01-20 15:35:23
+Reactor:
+Temperature: 83.9571╟C
+Level: 100%
+Compressor:
+Input pressure: 0.253778atm
+Output pressure: 7.89584atm
+
+Measurement results at 2020-01-20 15:35:24
+Reactor:
+Temperature: 50.9907╟C
+Level: 80%
+Heater:
+Input temperature: 31.0770╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:25
+Reactor:
+Temperature: 84.9530╟C
+Pressure: 2.12205atm
+Level: 99%
+Heater:
+Input temperature: 28.9675╟C
+Output temperature: 524.348╟C
+
+Measurement results at 2020-01-20 15:35:27
+Compressor:
+Input pressure: 0.074010atm
+Output pressure: 7.66465atm
+
+Measurement results at 2020-01-20 15:35:30
+Compressor:
+Output pressure: 7.33050atm
+
+Measurement results at 2020-01-20 15:35:31
+Heater:
+Input temperature: 21.2222╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:31
+Heater:
+Input temperature: 21.2222╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:33
+Compressor:
+Input pressure: 0.195780atm
+Output pressure: 5.32404atm
+
+Measurement results at 2020-01-20 15:35:34
+Reactor:
+Temperature: 43.9125╟C
+Heater:
+Input temperature: 32.0924╟C
+Output temperature: 514.718╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:34
+Reactor:
+Temperature: 43.9125╟C
+Heater:
+Input temperature: 32.0924╟C
+Output temperature: 514.718╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:36
+Compressor:
+Input pressure: 0.479110atm
+Output pressure: 6.54644atm
+
+Measurement results at 2020-01-20 15:35:36
+Compressor:
+Input pressure: 0.479110atm
+Output pressure: 6.54644atm
+
+Measurement results at 2020-01-20 15:35:36
+Compressor:
+Input pressure: 0.479110atm
+Output pressure: 6.54644atm
+
+Measurement results at 2020-01-20 15:35:37
+Reactor:
+Pressure: 1.98098atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:37
+Reactor:
+Pressure: 1.98098atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:35:39
+Reactor:
+Temperature: 43.7828╟C
+Pressure: 1.62418atm
+
+Measurement results at 2020-01-20 15:35:45
+Compressor:
+Output pressure: 6.49581atm
+
+Measurement results at 2020-01-20 15:35:46
+Reactor:
+Temperature: 85.8547╟C
+Pressure: 1.81540atm
+Level: 85%
+Compressor:
+Input pressure: 0.347848atm
+
+Measurement results at 2020-01-20 15:35:47
+Reactor:
+Temperature: 41.6241╟C
+Pressure: 1.88974atm
+Level: 84%
+Heater:
+Input temperature: 28.6473╟C
+Output temperature: 517.696╟C
+
+Measurement results at 2020-01-20 15:35:47
+Reactor:
+Temperature: 41.6241╟C
+Pressure: 1.88974atm
+Level: 84%
+Heater:
+Input temperature: 28.6473╟C
+Output temperature: 517.696╟C
+
+Measurement results at 2020-01-20 15:35:49
+Reactor:
+Level: 97%
+
+Measurement results at 2020-01-20 15:35:50
+Compressor:
+Input pressure: 0.201243atm
+
+Measurement results at 2020-01-20 15:35:50
+Compressor:
+Input pressure: 0.201243atm
+
+Measurement results at 2020-01-20 15:36:10
+Reactor:
+Temperature: 57.8527╟C
+Pressure: 1.98662atm
+Level: 93%
+Compressor:
+Input pressure: 0.451002atm
+Output pressure: 6.90834atm
+Heater:
+Input temperature: 27.2863╟C
+Output temperature: 502.489╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:11
+Heater:
+Input temperature: 28.3690╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:13
+Compressor:
+Output pressure: 6.60753atm
+Heater:
+Output temperature: 520.292╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:13
+Compressor:
+Output pressure: 6.60753atm
+Heater:
+Output temperature: 520.292╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:16
+Reactor:
+Temperature: 50.7578╟C
+Level: 91%
+
+Measurement results at 2020-01-20 15:36:18
+Reactor:
+Level: 99%
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:21
+Heater:
+Input temperature: 22.9439╟C
+Output temperature: 506.198╟C
+
+Measurement results at 2020-01-20 15:36:22
+Reactor:
+Level: 95%
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:41
+Reactor:
+Pressure: 1.70357atm
+Level: 95%
+Compressor:
+Input pressure: 0.371463atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:41
+Reactor:
+Pressure: 1.70357atm
+Level: 95%
+Compressor:
+Input pressure: 0.371463atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 15:36:44
+Compressor:
+Input pressure: 0.335083atm
+
+Measurement results at 2020-01-20 15:36:44
+Compressor:
+Input pressure: 0.335083atm
+
+Measurement results at 2020-01-20 15:36:44
+Compressor:
+Input pressure: 0.335083atm
+
+Measurement results at 2020-01-20 17:10:17
+Reactor:
+Temperature: 17.2005╟C
+Pressure: 1.66477atm
+Level: 95%
+Compressor:
+Input pressure: 0.305711atm
+Output pressure: 7.76029atm
+Heater:
+Input temperature: 24.9219╟C
+Output temperature: 505.059╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:10:19
+Reactor:
+Pressure: 1.89447atm
+Level: 95%
+
+Measurement results at 2020-01-20 17:10:20
+Reactor:
+Pressure: 2.13144atm
+
+Measurement results at 2020-01-20 17:10:20
+Reactor:
+Pressure: 2.13144atm
+
+Measurement results at 2020-01-20 17:10:21
+Reactor:
+Temperature: 65.6817╟C
+Pressure: 1.84311atm
+
+Measurement results at 2020-01-20 17:10:24
+Heater:
+Input temperature: 36.9329╟C
+Output temperature: 507.536╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:10:29
+Compressor:
+Input pressure: 0.311962atm
+Output pressure: 6.99233atm
+
+Measurement results at 2020-01-20 17:11:12
+Reactor:
+Temperature: 70.9662╟C
+Pressure: 2.19031atm
+Level: 99%
+Compressor:
+Input pressure: 0.206342atm
+Output pressure: 5.18214atm
+Heater:
+Input temperature: 31.4942╟C
+Output temperature: 500.275╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:12
+Reactor:
+Pressure: 2.05213atm
+Compressor:
+Input pressure: 0.374479atm
+Output pressure: 5.03296atm
+
+Measurement results at 2020-01-20 17:11:16
+Reactor:
+Pressure: 1.97874atm
+Level: 92%
+Compressor:
+Output pressure: 7.69293atm
+Heater:
+Input temperature: 27.1417╟C
+Output temperature: 523.227╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:18
+Reactor:
+Pressure: 2.03304atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:21
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:31
+Reactor:
+Pressure: 1.55214atm
+Compressor:
+Input pressure: 0.156038atm
+Output pressure: 5.38312atm
+
+Measurement results at 2020-01-20 17:11:33
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:33
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:35
+Reactor:
+Temperature: 79.7913╟C
+Pressure: 1.70715atm
+Level: 86%
+Heater:
+Output temperature: 513.969╟C
+
+Measurement results at 2020-01-20 17:11:36
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:37
+Heater:
+Input temperature: 31.5598╟C
+
+Measurement results at 2020-01-20 17:11:37
+Heater:
+Input temperature: 31.5598╟C
+
+Measurement results at 2020-01-20 17:11:41
+Reactor:
+Temperature: 70.6032╟C
+
+Measurement results at 2020-01-20 17:11:50
+Reactor:
+Temperature: 60.7821╟C
+Pressure: 1.94236atm
+Level: 92%
+Compressor:
+Input pressure: 0.350210atm
+Output pressure: 7.51137atm
+Heater:
+Input temperature: 35.2013╟C
+Output temperature: 503.059╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2020-01-20 17:11:51
+Reactor:
+Temperature: 16.5250╟C
+Pressure: 1.56207atm
+Level: 86%
+Heater:
+Output temperature: 507.227╟C
+
+Measurement results at 2020-01-20 17:11:51
+Reactor:
+Temperature: 16.5250╟C
+Pressure: 1.56207atm
+Level: 86%
+Heater:
+Output temperature: 507.227╟C

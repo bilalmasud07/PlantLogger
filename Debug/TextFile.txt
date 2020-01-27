@@ -1,0 +1,269 @@
+
+Measurement results at 2019-12-11 14:16:12
+Reactor:
+Propylene  quantity: Propylene  quantity: lyst  quantity: lyst  quantity: ent volume: ent volume: erature: erature: Pressure: 2.08771atm
+Level: 88%
+Output  quantity: Output  quantity: uder:
+Input quantity: Input quantity: ent volume: ent volume: ut viscosity: ut viscosity: Output quantity: Output quantity: Water bath: Water bath: antity: antity: r flow: r flow: Level: 81%
+Output quantity: Output quantity: Pelletizer: Pelletizer: antity: antity: ut quantity: ut quantity: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: л@: л@: л▄Ь: л▄Ь: ллллЬ: ллллЬ: ЧА: ЧА: ЭА: ЭА: $Ы: $Ы: @losh╙ё: @losh╙ё: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллПЭА: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллПЭА: 4╙ё: 4╙ё: (╙ё: (╙ё: h╙ё: h╙ё: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллЧА: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллЧА: 4╙ё: 4╙ё: (╙ё: (╙ё: @losh╙ё: @losh╙ё: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл(╙ё: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл(╙ё: (╙ё: (╙ё: HЧА: HЧА: XЧА: XЧА: H╡╣@los@losh╙ё: H╡╣@los@losh╙ё: я└: я└: ЧА: ЧА: $zs: $zs: ЧА: ЧА: @c÷vдЧА: @c÷vдЧА: \┼²V: \┼²V: ╙ё: ╙ё: : : : : : : : : : : ÷╫w@╨!: ÷╫w@╨!: {╪wЪЪЪЪЫ▌╬w: {╪wЪЪЪЪЫ▌╬w: losh╙ё: losh╙ё: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
+Measurement results at 2019-12-11 14:16:50
+Reactor:
+Temperature: 84.6597╟C
+Pressure: 1.59452atm
+Level: 87%
+Compressor:
+Input pressure: 0.440372atm
+Output pressure: 6.74742atm
+Heater:
+Input temperature: 27.2416╟C
+Output temperature: 512.164╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:16:51
+Reactor:
+Level: 90%
+Heater:
+Output temperature: 518.997╟C
+
+Measurement results at 2019-12-11 14:16:53
+Compressor:
+Input pressure: 0.270894atm
+Output pressure: 5.12552atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:16:54
+Reactor:
+Temperature: 46.0565╟C
+Pressure: 1.87882atm
+Level: 93%
+Heater:
+Input temperature: 36.3334╟C
+Output temperature: 515.694╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:16:56
+Reactor:
+Temperature: 24.3334╟C
+Compressor:
+Output pressure: 5.62754atm
+
+Measurement results at 2019-12-11 14:16:57
+Reactor:
+Temperature: 46.9606╟C
+Pressure: 1.55628atm
+Level: 99%
+Compressor:
+Output pressure: 7.00408atm
+
+Measurement results at 2019-12-11 14:16:58
+Heater:
+Input temperature: 20.0218╟C
+
+Measurement results at 2019-12-11 14:16:59
+Reactor:
+Temperature: 59.1664╟C
+Pressure: 2.14953atm
+Compressor:
+Output pressure: 7.10068atm
+
+Measurement results at 2019-12-11 14:17:00
+Reactor:
+Level: 94%
+
+Measurement results at 2019-12-11 14:17:01
+Compressor:
+Input pressure: 0.093160atm
+Output pressure: 5.85357atm
+Heater:
+Input temperature: 22.0724╟C
+
+Measurement results at 2019-12-11 14:17:05
+Reactor:
+Pressure: 2.10003atm
+
+Measurement results at 2019-12-11 14:17:05
+Reactor:
+Pressure: 2.10003atm
+
+Measurement results at 2019-12-11 14:17:07
+Compressor:
+Input pressure: 0.292990atm
+Output pressure: 5.34129atm
+
+Measurement results at 2019-12-11 14:17:09
+Reactor:
+Temperature: 57.3586╟C
+Level: 94%
+Compressor:
+Output pressure: 7.99063atm
+
+Measurement results at 2019-12-11 14:17:09
+Reactor:
+Temperature: 57.3586╟C
+Level: 94%
+Compressor:
+Output pressure: 7.99063atm
+
+Measurement results at 2019-12-11 14:17:12
+Reactor:
+Temperature: 26.1284╟C
+Pressure: 1.71718atm
+
+Measurement results at 2019-12-11 14:17:14
+Reactor:
+Temperature: 73.1014╟C
+Level: 80%
+
+Measurement results at 2019-12-11 14:17:18
+Compressor:
+Output pressure: 5.27468atm
+Heater:
+Output temperature: 524.089╟C
+
+Measurement results at 2019-12-11 14:17:19
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:17:21
+Reactor:
+Pressure: 1.94989atm
+
+Measurement results at 2019-12-11 14:17:22
+Heater:
+Input temperature: 32.0363╟C
+Output temperature: 524.029╟C
+
+Measurement results at 2019-12-11 14:17:25
+Reactor:
+Pressure: 1.93336atm
+Level: 81%
+
+Measurement results at 2019-12-11 14:17:25
+Reactor:
+Pressure: 1.93336atm
+Level: 81%
+
+Measurement results at 2019-12-11 14:17:26
+Compressor:
+Input pressure: 0.224891atm
+
+Measurement results at 2019-12-11 14:17:28
+Compressor:
+Input pressure: 0.236727atm
+
+Measurement results at 2019-12-11 14:17:30
+Compressor:
+Output pressure: 5.06289atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:17:33
+Heater:
+Input temperature: 36.0079╟C
+Output temperature: 507.601╟C
+
+Measurement results at 2019-12-11 14:17:35
+Reactor:
+Temperature: 84.9256╟C
+Pressure: 2.00888atm
+
+Measurement results at 2019-12-11 14:17:37
+Compressor:
+Input pressure: 0.349714atm
+Heater:
+Output temperature: 524.679╟C
+
+Measurement results at 2019-12-11 14:17:40
+Heater:
+Input temperature: 22.0500╟C
+Output temperature: 519.433╟C
+
+Measurement results at 2019-12-11 14:17:41
+Reactor:
+Temperature: 21.4825╟C
+Pressure: 2.05544atm
+Compressor:
+Input pressure: 0.496800atm
+Heater:
+Output temperature: 505.849╟C
+
+Measurement results at 2019-12-11 14:17:44
+Compressor:
+Input pressure: 0.414054atm
+Output pressure: 5.37957atm
+
+Measurement results at 2019-12-11 14:17:46
+Compressor:
+Input pressure: 0.345662atm
+Output pressure: 7.39268atm
+Heater:
+Input temperature: 36.5785╟C
+Output temperature: 511.192╟C
+
+Measurement results at 2019-12-11 14:17:47
+Reactor:
+Pressure: 1.70914atm
+Level: 87%
+
+Measurement results at 2019-12-11 14:17:48
+Reactor:
+Temperature: 60.5717╟C
+Level: 85%
+Heater:
+Output temperature: 520.983╟C
+
+Measurement results at 2019-12-11 14:17:49
+Reactor:
+Pressure: 1.51850atm
+Heater:
+Input temperature: 36.9024╟C
+
+Measurement results at 2019-12-11 14:17:49
+Reactor:
+Pressure: 1.51850atm
+Heater:
+Input temperature: 36.9024╟C
+
+Measurement results at 2019-12-11 14:17:50
+Reactor:
+Pressure: 1.89000atm
+
+Measurement results at 2019-12-11 14:17:52
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:17:55
+Reactor:
+Temperature: 66.5917╟C
+Level: 86%
+Compressor:
+Output pressure: 5.51870atm
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:17:58
+Heater:
+Input temperature: 27.3906╟C
+
+Measurement results at 2019-12-11 14:17:59
+Reactor:
+Temperature: 44.0159╟C
+Level: 91%
+Heater:
+Input temperature: 33.8243╟C
+Output temperature: 512.481╟C
+
+Measurement results at 2019-12-11 14:18:01
+Heater:
+Output temperature: 505.643╟C
+Separator:
+Acid concentration on output: Acid concentration on output: 
+Measurement results at 2019-12-11 14:18:02
+Reactor:
+Temperature: 31.5741╟C
+Pressure: 2.13933atm
+Compressor:
+Output pressure: 5.76614atm
+Heater:
+Input temperature: 22.9005╟C
+Output temperature: 506.672╟C
+
+Measurement results at 2019-12-11 14:18:03
+Separator:
+Acid concentration on output: Acid concentration on output: 

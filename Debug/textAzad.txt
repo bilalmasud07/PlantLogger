@@ -1,0 +1,358 @@
+
+Measurement results at 2019-12-11 14:22:19
+Reactor:
+Propylene  quantity: Propylene  quantity: lyst  quantity: lyst  quantity: ent volume: ent volume: erature: erature: Pressure: 1.96373atm
+Level: 91%
+Output  quantity: Output  quantity: uder:
+Input quantity: Input quantity: ent volume: ent volume: ut viscosity: ut viscosity: Output quantity: Output quantity: Water bath: Water bath: antity: antity: r flow: r flow: Level: 82%
+Output quantity: Output quantity: Pelletizer: Pelletizer: antity: antity: ut quantity: ut quantity: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллТ: л,: л,: лдЖ√: лдЖ√: лллл<Ж√: лллл<Ж√: LЬThж┘: LЬThж┘: ©▀└: ©▀└: |В√: |В√: 0╒Б: 0╒Б: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл8ВT: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл8ВT: ║Б: ║Б: ╟║Б: ╟║Б: 0╒Б: 0╒Б: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллXЬT╝≈└: ллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллXЬT╝≈└: ╦║Б: ╦║Б: fB@lЬr@lЬr0╒Б: fB@lЬr@lЬr0╒Б: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл╟║Б: лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл╟║Б: ╟║Б: ╟║Б: ░ЬTП╬┘: ░ЬTП╬┘: РlЬr╟║Б: РlЬr╟║Б: @lЬr0╒Б: @lЬr0╒Б: я└: я└: dЬT: dЬT: $ssz1!: $ssz1!: c÷v0╒Б: c÷v0╒Б: t{╪w0╒Б: t{╪w0╒Б: : : : : : : : : : : : : : : wv╥p: wv╥p: {╪wЪЪЪЪ▐╬w: {╪wЪЪЪЪ▐╬w: lЬr0╒Б: lЬr0╒Б: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
+Measurement results at 2019-12-11 14:23:08
+High pressure separator:
+Input flow: Input flow: Temperature: 30.3498╟C
+Pressure: 20.82537atm
+Level: 86%
+Output flow: Output flow: Low pressure separator:
+Input flow: Input flow: Temperature: 54.6094╟C
+Pressure: 1.76349atm
+Level: 100%
+Output flow: Output flow: Gas compressor:
+Input pressure: 0.969922atm
+Output pressure: 1.56509atm
+Booster compressor:
+Input pressure: 1.623582atm
+Output pressure: 16.31801atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-11 14:23:09
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-11 14:23:09
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-11 14:23:11
+Gas compressor:
+Input pressure: 0.785763atm
+Output pressure: 1.69269atm
+Control valve:
+Input flow: Input flow: Output flow: Output flow: 
+Measurement results at 2019-12-11 14:23:12
+High pressure separator:
+Pressure: 17.03686atm
+Low pressure separator:
+Temperature: 52.5921╟C
+Gas compressor:
+Input pressure: 1.204940atm
+Output pressure: 2.01488atm
+Booster compressor:
+Input pressure: 2.083752atm
+
+Measurement results at 2019-12-11 14:23:13
+High pressure separator:
+Pressure: 16.37225atm
+Level: 86%
+Booster compressor:
+Output pressure: 19.25080atm
+
+Measurement results at 2019-12-11 14:23:18
+Booster compressor:
+Input pressure: 1.552621atm
+Output pressure: 15.48140atm
+
+Measurement results at 2019-12-11 14:23:19
+High pressure separator:
+Input flow: Input flow: Level: 85%
+Gas compressor:
+Input pressure: 0.932773atm
+Output pressure: 2.01714atm
+Control valve:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:22
+Reactor:
+Temperature: 53.2100╟C
+Pressure: 1.57780atm
+Level: 80%
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:23
+Reactor:
+Temperature: 78.8913╟C
+
+Measurement results at 2019-12-11 14:24:26
+Reactor:
+Level: 90%
+
+Measurement results at 2019-12-11 14:24:26
+Reactor:
+Level: 90%
+
+Measurement results at 2019-12-11 14:24:30
+Reactor:
+Temperature: 50.7319╟C
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:24:31
+Reactor:
+Temperature: 31.0588╟C
+Pressure: 1.68063atm
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:36
+Reactor:
+Level: 83%
+
+Measurement results at 2019-12-11 14:24:37
+Reactor:
+Temperature: 60.6285╟C
+
+Measurement results at 2019-12-11 14:24:42
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:42
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:45
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:46
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:46
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:24:48
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:24:49
+Reactor:
+Temperature: 46.6361╟C
+Pressure: 1.80677atm
+Level: 92%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:24:50
+Reactor:
+Temperature: 69.9428╟C
+Pressure: 1.85064atm
+
+Measurement results at 2019-12-11 14:24:51
+Reactor:
+Temperature: 67.5217╟C
+Level: 94%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:24:53
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:24:54
+Reactor:
+Pressure: 1.62480atm
+Level: 86%
+
+Measurement results at 2019-12-11 14:24:55
+Reactor:
+Temperature: 11.2978╟C
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:24:58
+Reactor:
+Temperature: 35.7560╟C
+Pressure: 1.83657atm
+Level: 93%
+
+Measurement results at 2019-12-11 14:25:00
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:03
+Reactor:
+Temperature: 55.2696╟C
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:07
+Reactor:
+Temperature: 28.3753╟C
+Pressure: 1.53444atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:07
+Reactor:
+Temperature: 28.3753╟C
+Pressure: 1.53444atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:10
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:12
+Reactor:
+Temperature: 32.6863╟C
+Pressure: 2.19111atm
+
+Measurement results at 2019-12-11 14:25:16
+Reactor:
+Temperature: 71.2518╟C
+Pressure: 1.86744atm
+
+Measurement results at 2019-12-11 14:25:16
+Reactor:
+Temperature: 71.2518╟C
+Pressure: 1.86744atm
+
+Measurement results at 2019-12-11 14:25:19
+Reactor:
+Level: 100%
+
+Measurement results at 2019-12-11 14:25:22
+Reactor:
+Temperature: 33.9432╟C
+
+Measurement results at 2019-12-11 14:25:24
+Reactor:
+Temperature: 89.3414╟C
+
+Measurement results at 2019-12-11 14:25:27
+Reactor:
+Pressure: 1.86744atm
+Level: 97%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:33
+Reactor:
+Pressure: 1.87146atm
+Level: 80%
+
+Measurement results at 2019-12-11 14:25:35
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:41
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:42
+Reactor:
+Temperature: 55.1229╟C
+Pressure: 1.67927atm
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:43
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:44
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:45
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:46
+Reactor:
+Temperature: 64.2019╟C
+Level: 81%
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:52
+Reactor:
+Temperature: 16.7515╟C
+Pressure: 2.09543atm
+Level: 84%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:25:53
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:54
+Reactor:
+Pressure: 1.58747atm
+Level: 88%
+
+Measurement results at 2019-12-11 14:25:54
+Reactor:
+Pressure: 1.58747atm
+Level: 88%
+
+Measurement results at 2019-12-11 14:25:56
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:57
+Reactor:
+Temperature: 49.7075╟C
+Pressure: 1.74261atm
+Input pipe:
+Input flow: Input flow: Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:58
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:25:59
+Reactor:
+Level: 80%
+
+Measurement results at 2019-12-11 14:26:02
+Reactor:
+Temperature: 41.4786╟C
+
+Measurement results at 2019-12-11 14:26:07
+Reactor:
+Temperature: 85.4459╟C
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:26:10
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:26:11
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:26:12
+Reactor:
+Temperature: 34.2198╟C
+
+Measurement results at 2019-12-11 14:26:17
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:26:19
+Reactor:
+Temperature: 67.7106╟C
+Level: 93%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:26:21
+Reactor:
+Level: 91%
+
+Measurement results at 2019-12-11 14:26:26
+Reactor:
+Level: 98%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:26:26
+Reactor:
+Level: 98%
+Input pipe:
+Input flow: Input flow: 
+Measurement results at 2019-12-11 14:26:27
+Reactor:
+Pressure: 1.75915atm
+
+Measurement results at 2019-12-11 14:26:29
+Reactor:
+Temperature: 84.6983╟C
+Pressure: 2.00146atm
+Level: 96%
+
+Measurement results at 2019-12-11 14:26:30
+Reactor:
+Pressure: 2.14474atm
+
+Measurement results at 2019-12-11 14:26:32
+Reactor:
+Level: 90%
+
+Measurement results at 2019-12-11 14:26:37
+Output pipe:
+Output flow: Output flow: 
+Measurement results at 2019-12-11 14:26:38
+Input pipe:
+Input flow: Input flow: 
